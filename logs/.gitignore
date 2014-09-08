@@ -1,0 +1,8 @@
+*.gz
+access.log.current
+ftp.log
+info.php
+info.php5
+sftp.*
+traffic.*
+traffic.html
